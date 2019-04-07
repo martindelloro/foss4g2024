@@ -1,15 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Open+Sans:400,700,800');
+
 .App {
   text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  height: 48vmin;
   pointer-events: none;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -30,4 +33,38 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Support {
+  font-size: 1.5em;
+}
+
+.Padding-text {
+  padding-top: 2em;
+}
+
+.City-text {
+  padding-left: 20px!important;
+}
+
+.Year {
+  font-size: 1.8em;
+}
+
+.City {
+  font-size: 3em;
+  font-weight: 900;
+}
+
+.Footer {
+  padding-top: 2em;
+  font-size: 1.4em;
+}
+
+.Blue {
+  color: #568AD5;
+}
+
+.Yellow {
+  color: #FCAA09;
 }

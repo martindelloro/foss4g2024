@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "i18next": "^15.0.9",
+    "i18next-xhr-backend": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-i18next": "^10.6.1",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
