@@ -13,8 +13,8 @@ class App extends Component {
 
   componentDidMount() {
     const { i18n } = this.props;
-    const languages = ['ar','arn','cn','en','es','fr','ge','it','jp','pt','quz','ru','sw'];
-    this.interval = setInterval(() => i18n.changeLanguage(languages[Math.floor(Math.random()*languages.length)]), 1000);
+    const languages = ['ar','arn','cn','en','es','fr','ge','it','jp','pt','quz','ru','sw','gn'];
+    this.interval = setInterval(() => i18n.changeLanguage(languages[Math.floor(Math.random()*languages.length)+0]), 1000);
   }
   componentWillUnmount() {
     clearInterval(this.interval);
