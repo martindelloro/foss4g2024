@@ -1,9 +1,11 @@
 {
   "name": "foss4g2021",
+  "homepage": "https://martindelloro.github.io/foss4g2021/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "i18next": "^15.0.9",
     "i18next-xhr-backend": "^2.0.1",
     "react": "^16.8.6",
