@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/foss4g2021/precache-manifest.55fb9a0e7b95299211de5ec39928fb33.js"
+  "/foss4g2021/precache-manifest.46e60b001e2b6f3c8f4d51fd857d3d6f.js"
 );
 
 workbox.clientsClaim();
