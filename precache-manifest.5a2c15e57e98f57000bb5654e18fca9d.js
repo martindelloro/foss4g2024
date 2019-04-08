@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/foss4g2021/static/js/runtime~main.3a5f2358.js"
   },
   {
-    "revision": "ce24035926164af81452",
-    "url": "/foss4g2021/static/js/main.e28de6ff.chunk.js"
+    "revision": "8e1376c3b7916e8e1255",
+    "url": "/foss4g2021/static/js/main.f927ac3c.chunk.js"
   },
   {
-    "revision": "be3381f0cb8412dc160b",
-    "url": "/foss4g2021/static/js/2.b2558150.chunk.js"
+    "revision": "88faf664561dcce21507",
+    "url": "/foss4g2021/static/js/2.e41a76c2.chunk.js"
   },
   {
-    "revision": "ce24035926164af81452",
+    "revision": "8e1376c3b7916e8e1255",
     "url": "/foss4g2021/static/css/main.f50431c2.chunk.css"
   },
   {
-    "revision": "be3381f0cb8412dc160b",
+    "revision": "88faf664561dcce21507",
     "url": "/foss4g2021/static/css/2.6a54f420.chunk.css"
   },
   {
-    "revision": "8b8f7cf17b47e5379fb430086bfa421c",
+    "revision": "a7ac50a2e5df68d338e5ce2b32e84de8",
     "url": "/foss4g2021/index.html"
   }
 ];
